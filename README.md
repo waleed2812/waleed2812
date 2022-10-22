@@ -18,6 +18,7 @@ layers, and databases. Certified in both F/E and B/E technologies.
 &nbsp; ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 &nbsp; ![React Native](https://img.shields.io/badge/react%20native-%231c2c4c.svg?style=for-the-badge&logo=react&logoColor=%237cc5d9)
 &nbsp; ![Redux](https://img.shields.io/badge/redux-%23242443.svg?style=for-the-badge&logo=react&logoColor=%23764abc)
+&nbsp; ![NextJS](https://img.shields.io/badge/next.js-%235e7693.svg?style=for-the-badge&logo=next.js&logoColor=%2361DAFB)
 &nbsp; ![MongoDB](https://img.shields.io/badge/mongoDB-%233F3E42.svg?style=for-the-badge&logo=mongodb&logoColor=%233FA037)
 &nbsp; ![HTML](https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=ffffff)
 &nbsp; ![CSS](https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=ffffff)
@@ -38,5 +39,8 @@ layers, and databases. Certified in both F/E and B/E technologies.
 &nbsp; ![CCPP](https://img.shields.io/badge/c%2fc++-ED8B00?style=for-the-badge&logo=c&logoColor=ffffff)
 &nbsp; ![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=ffffff)
 
+#### Hire/Contact Me
+[<img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="20px" alt="waleed3072@gmail.com" />](mailto:waleed3072@gmail.com)
+&nbsp; [<img src="https://assetsv2.fiverrcdn.com/assets/favicon-32x32-c14c90ef2f61e444157b7feaca9b5235.png" width="20px" alt="waleed3072@gmail.com" />](https://www.fiverr.com/waleedbut98)
 
 [![my stats](https://github-readme-stats.vercel.app/api?username=waleedbutt98&hide=prs&theme=react)](https://github.com/waleedbutt98)
