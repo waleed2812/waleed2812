@@ -2,7 +2,7 @@
 
 ---
 
-#### I am Waleed Butt
+#### I am [Waleed Butt](https://waleedb.com/)
 
 Dedicated and efficient full stack developer with experience in application layers, presentation
 layers, and databases. Certified in both F/E and B/E technologies.
@@ -58,7 +58,7 @@ layers, and databases. Certified in both F/E and B/E technologies.
 
 ### Hire/Contact Me
 [<img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="20px" alt="waleed3072@gmail.com" />](mailto:waleed3072@gmail.com)
-&nbsp; [<img src="https://assetsv2.fiverrcdn.com/assets/favicon-32x32-c14c90ef2f61e444157b7feaca9b5235.png" width="20px" alt="waleed3072@gmail.com" />](https://www.fiverr.com/waleedbut98)
+&nbsp; [<img src="https://assetsv2.fiverrcdn.com/assets/favicon-32x32-c14c90ef2f61e444157b7feaca9b5235.png" width="20px" alt="waleed3072@gmail.com" />](https://www.fiverr.com/waleedbut98) &nbsp; [Portfolio](https://waleedb.com/)
 
 ### Github History
 [![my stats](https://github-readme-stats.vercel.app/api?username=waleed2812&hide=prs&theme=react)](https://github.com/waleed2812)
