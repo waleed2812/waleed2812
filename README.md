@@ -68,13 +68,10 @@ layers, and databases. Certified in both F/E and B/E technologies.
 &nbsp; [<img src="https://www.linkedin.com/favicon.ico" width="20px" alt="waleed3072@gmail.com" />](https://www.linkedin.com/in/waleedb2812/) 
 &nbsp; [<img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="20px" alt="waleed3072@gmail.com" />](mailto:waleed3072@gmail.com)
 &nbsp; [<img src="https://assetsv2.fiverrcdn.com/assets/favicon-32x32-c14c90ef2f61e444157b7feaca9b5235.png" width="20px" alt="waleed3072@gmail.com" />](https://www.fiverr.com/waleedbut98) 
-&nbsp; [<img src="https://www.upwork.com/favicon.ico" width="20px" alt="waleed3072@gmail.com" />](https://www.upwork.com/freelancers/~0111f6feff552c794d) 
+&nbsp; [<img src="https://cdn3.iconfinder.com/data/icons/brands-pack/240/upwork-512.png" width="20px" alt="waleed3072@gmail.com" />](https://www.upwork.com/freelancers/~0111f6feff552c794d) 
 &nbsp; [<img src="https://stackoverflow.com/favicon.ico" width="20px" alt="waleed3072@gmail.com" />](https://stackoverflow.com/users/14343564/waleed) 
 &nbsp; [<img src="https://www.facebook.com/favicon.ico" width="20px" alt="waleed3072@gmail.com" />](https://www.facebook.com/waleedb98/) 
-&nbsp; [<img src="https://scontent.fruh4-4.fna.fbcdn.net/v/t39.8562-6/475210330_598195142840489_9172482348551739153_n.png?_nc_cat=1&ccb=1-7&_nc_sid=f537c7&_nc_ohc=XTPAJcEM3UcQ7kNvwGyB5Oi&_nc_oc=Adnvh44RO8VFiE3X3VG317F1dRChz0NqdDgTdFTI2G8WO0WMQ3hPhfsOi2nQjzgKyc_fL7InIZQx3AO1rQf4LuT5&_nc_zt=14&_nc_ht=scontent.fruh4-4.fna&_nc_gid=zXKPAdczZdG7dmkkog52WQ&oh=00_AfQv66xwonfmDAzV6-HYu5doRDXqJZFTQQgRn5FQ7E-mmw&oe=68721A18" width="20px" alt="waleed3072@gmail.com" />](https://m.me/waleedb98/) 
+&nbsp; [<img src="https://static.xx.fbcdn.net/rsrc.php/yO/r/qa11ER6rke_.ico" width="20px" alt="waleed3072@gmail.com" />](https://m.me/waleedb98/) 
 &nbsp; [<img src="https://static.cdninstagram.com/rsrc.php/v4/yI/r/VsNE-OHk_8a.png" width="20px" alt="waleed3072@gmail.com" />](https://www.instagram.com/waleedb2812/) 
 &nbsp; [<img src="https://www.reddit.com/favicon.ico" width="20px" alt="waleed3072@gmail.com" />](https://www.reddit.com/user/waleedb2812/) 
 
-### Github History
-
-[![my stats](https://github-readme-stats.vercel.app/api?username=waleed2812&hide=prs&theme=react)](https://github.com/waleed2812)
